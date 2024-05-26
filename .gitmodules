@@ -1,0 +1,3 @@
+[submodule "KiCAD/lib/external/gh60"]
+	path = KiCAD/lib/external/gh60
+	url = https://github.com/komar007/gh60.git
