@@ -8,8 +8,6 @@ Based on an ANSI layout with splitted right-Shift and 6.25u spacebar, the spaceb
 
 YuTofu is equipped with a 4-pin JSF socket compatible with [Unified Daughterboard](https://github.com/Unified-Daughterboard), in addition to an onboard USB Type-C connector and mounting holes compatible with the GH60-compatible layout. This means that the PCB can be used not only in the Tofu60 2.0 case but also in common GH60-compatible cases, i.e. [Tofu60 Redux Case](https://kbdfans.com/products/tofu60-redux-case).
 
-However, please note that YuTofu only provides the PCB and does not include any switch plates, so you will need to prepare one yourself. It is recommended to modify the switch plate included with the Tofu60 2.0/Tofu60 Redux. Be aware that the difficulty of modification may vary depending on the material.
-
 ## Default Layout
 
 You can customize the layout with [Vial](https://get.vial.today/) configurator.
