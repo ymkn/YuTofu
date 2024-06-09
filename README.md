@@ -16,11 +16,13 @@ You can customize the layout with [Vial](https://get.vial.today/) configurator.
 
 ## Specification
 
-- Hot swappable sockets for MX compatible switches
-- Unified-Daughterboard JSF 4-pin socket or USB Type C Connector (USB 2.0)
+- Hot swappable sockets for MX compatible switches are installed
+- Unified-Daughterboard JSF 4-pin socket and USB Type C Connector (USB 2.0) are equipped
+- PCB and switch plate compatible with the Tofu60 2.0
 - GH60 compatible dimension: 285mm(w) x 94.6mm(h) x 1.6mm(d)
-- Suitable for most 60% keyboard cases
+- Suitable for Tofu60 2.0 case, and also may be used for most 60% keyboard cases
   - Warning: center and right bottom mounting holes are not implemented.
+  - Warning: switch plate cannot be used with cases other than the Tofu60 2.0.
 
 ## Build Guide
 
